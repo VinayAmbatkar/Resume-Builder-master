@@ -42,7 +42,7 @@ export default function Footer() {
                 justify={{ base: 'center', md: 'space-between' }}
                 align={{ base: 'center', md: 'center' }}>
                 <Image style={{ height: '150px' }} src={logo} alt="logo" />
-                <Text>© 2023 Resume Builder, All rights reserved</Text>
+                <Text>© 2024 Resume Builder, All rights reserved</Text>
                 <Stack direction={'row'} spacing={6}>
                     <SocialButton label={'Github'} href={'https://github.com/VinayAmbatkar'}>
                         <FaGithub />
